@@ -7,3 +7,5 @@ const definitelyNotAFunc = () => {
 const maybeAFunc = () => {
     console.log('Still nope');  
 }
+
+console.log('test,est,st,t');
